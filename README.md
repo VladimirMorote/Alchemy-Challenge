@@ -12,4 +12,4 @@ Se logró poner comentarios tratando de explicar los contratos
 
 No se trabajo sobre la parte Front End ya que no se requirio esto.
 
-# Se adjuntan imagenes
+# Se adjuntan imagenes en seccion issues, arriba debajo de titulo Alchemy Challenge 
