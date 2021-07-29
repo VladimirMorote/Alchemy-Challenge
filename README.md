@@ -1,8 +1,8 @@
 ## Alkemy-Challenge-Rec
 
-En el presente trabajo por cuestiones de tiempo no pude temirnar lo que se refiere a autentificaciones de usuarios y roles pero se estuvo cerca de hacerlo.
+En el presente trabajo. Se trabajo con Spring Segurity para autentificacion de usuario y clave
 
-Si se puede encontrar la arquitectura basica Rest con sus respectivas pruebas hechas en POSTMAN. Estás pruebas hechas en POSTMAN son get put post delete verificando endpoints
+Se puede encontrar la arquitectura basica Rest con sus respectivas pruebas hechas en POSTMAN. Estás pruebas hechas en POSTMAN son get put post delete verificando endpoints
 
 Se insertan nombres e Id s desde el archivo .java que esta en package com.vladycode.controller hacia repositorio en base de datos postgreSQL con la ayuda de Jpa. Esto se verifica en BD
 
